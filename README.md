@@ -29,6 +29,10 @@
 ![Process Control](https://img.shields.io/badge/Process%20Control-483D8B?style=for-the-badge&logo=controlpanel&logoColor=white)
 ![Control Engineering](https://img.shields.io/badge/Control%20Engineering-4682B4?style=for-the-badge&logo=engineer&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Power Plant Instruments](https://img.shields.io/badge/Power%20Plant%20Instruments-2F4F4F?style=for-the-badge&logo=powerbi&logoColor=white)
+![Biomedical](https://img.shields.io/badge/Biomedical%20Engineering-8B0000?style=for-the-badge&logo=healthicons&logoColor=white)
+![E-Vehicle BMS](https://img.shields.io/badge/E--Vehicle%20BMS-228B22?style=for-the-badge&logo=tesla&logoColor=white)
+
 
 
 #### 🤖 Machine Learning & AI
