@@ -101,11 +101,14 @@
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" alt="Breaking Bad - I'm done" width="400"/>
+  <img src="https://media.giphy.com/media/3o7TKP3yLg8XxEjQdy/giphy.gif" alt="Breaking Bad High Five" width="400"/>
   <br>
   <em>"I'm done. When I say we're done."</em>
 </p>
+
 
 
 <!-- Banner section -->
