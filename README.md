@@ -25,14 +25,12 @@
 ---
 ### 🎨 Hobbies
 ![Web Series](https://img.shields.io/badge/Web%20Series-FF4500?style=for-the-badge&logo=netflix&logoColor=white)
-![Cinephile](https://img.shields.io/badge/Cinephile-FF4500?style=for-the-badge&logo=popcorn&logoColor=white)
+![Screen Enthusiast](https://img.shields.io/badge/Screen%20Enthusiast-FF4500?style=for-the-badge&logo=popcorn&logoColor=white)
 ![Binge-watcher](https://img.shields.io/badge/Binge--watcher-1E90FF?style=for-the-badge&logo=netflix&logoColor=white)
-![Music Lover](https://img.shields.io/badge/Music%20Lover-FF69B4?style=for-the-badge&logo=spotify&logoColor=white)
+![Beat Explorer](https://img.shields.io/badge/Beat%20Explorer-FF69B4?style=for-the-badge&logo=spotify&logoColor=white)
 ![Cycling](https://img.shields.io/badge/Cycling-32CD32?style=for-the-badge&logo=bike&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-8A2BE2?style=for-the-badge&logo=discord&logoColor=white)
-![Outings with Friends](https://img.shields.io/badge/Outings%20with%20Friends-1E90FF?style=for-the-badge&logo=people&logoColor=white)
-![Omnivore](https://img.shields.io/badge/Omnivore-DAA520?style=for-the-badge&logo=food&logoColor=white)
-
+![Squad Adventures](https://img.shields.io/badge/Squad%20Adventures-1E90FF?style=for-the-badge&logo=people&logoColor=white)
 
 ---
 
