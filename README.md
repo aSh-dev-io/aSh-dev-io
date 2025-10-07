@@ -32,6 +32,9 @@
 ![Power Plant Instruments](https://img.shields.io/badge/Power%20Plant%20Instruments-2F4F4F?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Biomedical](https://img.shields.io/badge/Biomedical%20Engineering-8B0000?style=for-the-badge&logo=healthicons&logoColor=white)
 ![E-Vehicle BMS](https://img.shields.io/badge/E--Vehicle%20BMS-228B22?style=for-the-badge&logo=tesla&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-2F4F4F?style=for-the-badge&logo=arm&logoColor=white)
+![Field Instruments](https://img.shields.io/badge/Field%20Instruments-5F9EA0?style=for-the-badge&logo=measure&logoColor=white)
+![Transducers & Sensors](https://img.shields.io/badge/Transducers%20%26%20Sensors-2E8B57?style=for-the-badge&logo=symfony&logoColor=white)
 
 
 
