@@ -44,6 +44,7 @@
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=for-the-badge&logo=ni&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+----
 
 #### ⚙️ Domain Knowledge & Tools
 ![Porteus](https://img.shields.io/badge/Porteus-1E90FF?style=for-the-badge&logo=linux&logoColor=white)
@@ -60,18 +61,22 @@
 ![Field Instruments](https://img.shields.io/badge/Field%20Instruments-5F9EA0?style=for-the-badge&logo=measure&logoColor=white)
 ![Transducers & Sensors](https://img.shields.io/badge/Transducers%20%26%20Sensors-2E8B57?style=for-the-badge&logo=symfony&logoColor=white)
 
-
+----
 
 #### 🤖 Machine Learning & AI
 ![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=ai&logoColor=white)
 ![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-FF6F00?style=for-the-badge)
 ![GBR](https://img.shields.io/badge/Gradient%20Boosting-4285F4?style=for-the-badge)
 
+----
+
 #### ⚙️ Electronics & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-2C2C2C?style=for-the-badge&logo=espressif&logoColor=red)
 ![IoT](https://img.shields.io/badge/Internet%20of%20Things-00BFFF?style=for-the-badge)
 ![Sensors](https://img.shields.io/badge/Sensors%20%26%20Instrumentation-555555?style=for-the-badge)
+
+----
 
 ### 🌱 Soft Skills
 ![Verbal Communication](https://img.shields.io/badge/Verbal%20Communication-FF69B4?style=for-the-badge&logo=communication&logoColor=white)
