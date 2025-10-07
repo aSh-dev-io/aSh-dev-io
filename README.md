@@ -102,12 +102,22 @@
 ---
 
 ---
+---
 
-<p align="center">
-  <img src="https://tenor.com/view/high-five-walter-white-jesse-pinkman-breaking-bad-4k-gif-21661584" alt="Breaking Bad High Five" width="400"/>
-  <br>
-  <em>"I'm done. When I say we're done."</em>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN6MjZ6Ym9hbGF1cXY3cGxwZHdpN2R0bGQ1Nm5wd2l3OWtxamQyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6hbjk67dtI8zuiFyUA/giphy.gif" width="150" alt="Breaking Bad GIF">
+    </td>
+    <td>
+      <p align="left">
+        <em>"I'm done. When I say we're done."</em> <br>
+        — <strong>Breaking Bad</strong>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 
