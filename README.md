@@ -28,6 +28,7 @@
 #### 💻 Programming & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vibe Coder](https://img.shields.io/badge/Vibe%20Coder-CSS%2FSCSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ff7400?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=for-the-badge&logo=ni&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
