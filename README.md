@@ -17,11 +17,12 @@
 💡 Passionate about blending **electronics, automation, and machine intelligence** to create innovative solutions.  
 
 🔬 Strong interest in **process control, instrumentation, and embedded systems**.  
+
 🧠 Exploring **Machine Learning, IoT**, and **Cloud-based smart systems** integration.  
+
 💻 Believe in writing **efficient, elegant, and impactful code**.
 
-
-
+---
 ### 🎨 Hobbies
 ![Web Series](https://img.shields.io/badge/Web%20Series-FF4500?style=for-the-badge&logo=netflix&logoColor=white)
 ![Cycling](https://img.shields.io/badge/Cycling-32CD32?style=for-the-badge&logo=bike&logoColor=white)
