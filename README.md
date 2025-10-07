@@ -9,6 +9,12 @@
 🧠 Exploring **Machine Learning, IoT**, and **Cloud-based smart systems** integration.  
 💻 Believe in writing **efficient, elegant, and impactful code**.
 
+### 🎨 Hobbies
+![Web Series](https://img.shields.io/badge/Web%20Series-FF4500?style=for-the-badge&logo=netflix&logoColor=white)
+![Cycling](https://img.shields.io/badge/Cycling-32CD32?style=for-the-badge&logo=bike&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-8A2BE2?style=for-the-badge&logo=discord&logoColor=white)
+![Outing with Friends](https://img.shields.io/badge/Outing%20with%20Friends-1E90FF?style=for-the-badge&logo=people&logoColor=white)
+
 ---
 
 ### 🧰 Tech Toolbox
@@ -49,6 +55,14 @@
 ![IoT](https://img.shields.io/badge/Internet%20of%20Things-00BFFF?style=for-the-badge)
 ![Sensors](https://img.shields.io/badge/Sensors%20%26%20Instrumentation-555555?style=for-the-badge)
 
+### 🌱 Soft Skills
+![Verbal Communication](https://img.shields.io/badge/Verbal%20Communication-FF69B4?style=for-the-badge&logo=communication&logoColor=white)
+![Punctuality](https://img.shields.io/badge/Punctuality-32CD32?style=for-the-badge&logo=clockify&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-1E90FF?style=for-the-badge&logo=slack&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge&logo=idea&logoColor=black)
+![Adaptability](https://img.shields.io/badge/Adaptability-FF8C00?style=for-the-badge&logo=flex&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge&logo=leadership&logoColor=white)
+
 ---
 
 ### ⚡ Focus Areas
@@ -84,6 +98,15 @@
 <p align="center">💫 *Building intelligent systems that connect the digital and physical worlds.* 💫</p>
 
 ---
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" alt="Breaking Bad - I'm done" width="400"/>
+  <br>
+  <em>"I'm done. When I say we're done."</em>
+</p>
+
 
 <!-- Banner section -->
 <p align="center">
