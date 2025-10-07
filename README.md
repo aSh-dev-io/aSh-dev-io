@@ -104,7 +104,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP3yLg8XxEjQdy/giphy.gif" alt="Breaking Bad High Five" width="400"/>
+  <img src="https://tenor.com/view/high-five-walter-white-jesse-pinkman-breaking-bad-4k-gif-21661584" alt="Breaking Bad High Five" width="400"/>
   <br>
   <em>"I'm done. When I say we're done."</em>
 </p>
