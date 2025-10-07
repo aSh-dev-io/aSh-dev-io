@@ -11,8 +11,11 @@
 
 ### 🌟 About Me
 🥩 Carnivore at heart.
+
 🍿 Binge-watcher: GoT & Breaking Bad aficionado.
+
 💡 Passionate about blending **electronics, automation, and machine intelligence** to create innovative solutions.  
+
 🔬 Strong interest in **process control, instrumentation, and embedded systems**.  
 🧠 Exploring **Machine Learning, IoT**, and **Cloud-based smart systems** integration.  
 💻 Believe in writing **efficient, elegant, and impactful code**.
