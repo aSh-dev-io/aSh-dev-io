@@ -120,7 +120,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN6MjZ6Ym9hbGF1cXY3cGxwZHdpN2R0bGQ1Nm5wd2l3OWtxamQyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6hbjk67dtI8zuiFyUA/giphy.gif" width="150" alt="Breaking Bad GIF">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1zb3d3Nm5xOGxtZjV1dG8yb285YTE1eHZhbHN2eDMwdHRhNnA0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRrEPIhI8CdTLEY/giphy.gif" width="150" alt="Breaking Bad GIF">
     </td>
     <td>
       <p align="left">
