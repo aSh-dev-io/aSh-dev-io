@@ -1,9 +1,8 @@
-<h1 align="center">
-  ✨ Hi there, I'm <span style="color:#00BFFF;">Ashwin M</span> 👋
-  <span style="float:right;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZkb2g4bmo1YXdyeHM5bXB1NDdxZHk4dnV5dHhlOWtyY2Fwd2tpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kyoMZN4P0UTChOBNqx/giphy.gif" width="80" alt="Ashwin GIF">
-  </span>
-</h1>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZkb2g4bmo1YXdyeHM5bXB1NDdxZHk4dnV5dHhlOWtyY2Fwd2tpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kyoMZN4P0UTChOBNqx/giphy.gif" width="80" alt="Ashwin GIF">
+  <span style="font-size: 2em; color:#00BFFF;"> Hi there, I'm Ashwin M 👋</span>
+</p>
+
 
 
 <h3 align="center">🎓 Electronics & Communication Engineer | ⚙️ Control • Automation • IoT Enthusiast</h3>
