@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZkb2g4bmo1YXdyeHM5bXB1NDdxZHk4dnV5dHhlOWtyY2Fwd2tpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kyoMZN4P0UTChOBNqx/giphy.gif" width="80" alt="Ashwin GIF">
-  <span style="font-size: 5em; color:#00BFFF;"> Hi there, I'm Ashwin M 👋</span>
+  <span style="font-size: 15em; color:#00BFFF;"> Hi there, I'm Ashwin M 👋</span>
 </p>
 
 
