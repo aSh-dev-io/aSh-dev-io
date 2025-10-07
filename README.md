@@ -21,6 +21,16 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+#### ⚙️ Domain Knowledge & Tools
+![Porteus](https://img.shields.io/badge/Porteus-1E90FF?style=for-the-badge&logo=linux&logoColor=white)
+![Digital Electronics](https://img.shields.io/badge/Digital%20Electronics-4B0082?style=for-the-badge&logo=circuitverse&logoColor=white)
+![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-FFA500?style=for-the-badge&logo=siemens&logoColor=white)
+![Electrical & Instrumentation](https://img.shields.io/badge/Electrical%20%26%20Instrumentation-006400?style=for-the-badge&logo=dependabot&logoColor=white)
+![Process Control](https://img.shields.io/badge/Process%20Control-483D8B?style=for-the-badge&logo=controlpanel&logoColor=white)
+![Control Engineering](https://img.shields.io/badge/Control%20Engineering-4682B4?style=for-the-badge&logo=engineer&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+
 #### 🤖 Machine Learning & AI
 ![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=ai&logoColor=white)
 ![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-FF6F00?style=for-the-badge)
