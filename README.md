@@ -83,7 +83,6 @@
 ![Teamwork](https://img.shields.io/badge/Teamwork-1E90FF?style=for-the-badge&logo=slack&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge&logo=idea&logoColor=black)
 ![Adaptability](https://img.shields.io/badge/Adaptability-FF8C00?style=for-the-badge&logo=flex&logoColor=white)
-![Leadership](https://img.shields.io/badge/Leadership-8A2BE2?style=for-the-badge&logo=leadership&logoColor=white)
 
 ---
 
