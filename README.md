@@ -24,7 +24,6 @@
 
 ---
 ### 🎨 Hobbies
-![Web Series](https://img.shields.io/badge/Web%20Series-FF4500?style=for-the-badge&logo=netflix&logoColor=white)
 ![Screen Enthusiast](https://img.shields.io/badge/Screen%20Enthusiast-FF4500?style=for-the-badge&logo=popcorn&logoColor=white)
 ![Binge-watcher](https://img.shields.io/badge/Binge--watcher-1E90FF?style=for-the-badge&logo=netflix&logoColor=white)
 ![Beat Explorer](https://img.shields.io/badge/Beat%20Explorer-FF69B4?style=for-the-badge&logo=spotify&logoColor=white)
