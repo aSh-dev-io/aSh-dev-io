@@ -12,7 +12,7 @@
 ### 🌟 About Me
 🥩 Carnivore at heart.
 
-🍿 Binge-watcher: GoT & Breaking Bad aficionado.
+🍿 Binge-watcher
 
 💡 Passionate about blending **electronics, automation, and machine intelligence** to create innovative solutions.  
 
