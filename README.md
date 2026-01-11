@@ -24,10 +24,8 @@
 
 ---
 ### 🎨 Hobbies
-![Screen Enthusiast](https://img.shields.io/badge/Screen%20Enthusiast-FF4500?style=for-the-badge&logo=popcorn&logoColor=white)
 ![Binge-watcher](https://img.shields.io/badge/Binge--watcher-1E90FF?style=for-the-badge&logo=netflix&logoColor=white)
 ![Beat Explorer](https://img.shields.io/badge/Beat%20Explorer-FF69B4?style=for-the-badge&logo=spotify&logoColor=white)
-![Cycling](https://img.shields.io/badge/Cycling-32CD32?style=for-the-badge&logo=bike&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-8A2BE2?style=for-the-badge&logo=discord&logoColor=white)
 ![Squad Adventures](https://img.shields.io/badge/Squad%20Adventures-1E90FF?style=for-the-badge&logo=people&logoColor=white)
 
@@ -44,17 +42,16 @@
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=for-the-badge&logo=ni&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Porteus](https://img.shields.io/badge/Porteus-1E90FF?style=for-the-badge&logo=linux&logoColor=white)
 
 ----
 
 #### ⚙️ Domain Knowledge & Tools
-![Porteus](https://img.shields.io/badge/Porteus-1E90FF?style=for-the-badge&logo=linux&logoColor=white)
 ![Digital Electronics](https://img.shields.io/badge/Digital%20Electronics-4B0082?style=for-the-badge&logo=circuitverse&logoColor=white)
 ![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-FFA500?style=for-the-badge&logo=siemens&logoColor=white)
 ![Electrical & Instrumentation](https://img.shields.io/badge/Electrical%20%26%20Instrumentation-006400?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Process Control](https://img.shields.io/badge/Process%20Control-483D8B?style=for-the-badge&logo=controlpanel&logoColor=white)
 ![Control Engineering](https://img.shields.io/badge/Control%20Engineering-4682B4?style=for-the-badge&logo=engineer&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Power Plant Instruments](https://img.shields.io/badge/Power%20Plant%20Instruments-2F4F4F?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Biomedical](https://img.shields.io/badge/Biomedical%20Engineering-8B0000?style=for-the-badge&logo=healthicons&logoColor=white)
 ![E-Vehicle BMS](https://img.shields.io/badge/E--Vehicle%20BMS-228B22?style=for-the-badge&logo=tesla&logoColor=white)
@@ -76,6 +73,7 @@
 ![ESP32](https://img.shields.io/badge/ESP32-2C2C2C?style=for-the-badge&logo=espressif&logoColor=red)
 ![IoT](https://img.shields.io/badge/Internet%20of%20Things-00BFFF?style=for-the-badge)
 ![Sensors](https://img.shields.io/badge/Sensors%20%26%20Instrumentation-555555?style=for-the-badge)
+![Raspberry Pi IoT](https://img.shields.io/badge/Raspberry%20Pi-IoT-BC1142?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ----
 
@@ -98,7 +96,6 @@
 ---
 
 ### 📈 Current Work
-🚀 Exploring **IoT-cloud integration** using ESP32 and camera modules.  
 🔧 Working on **AI-assisted control systems** for industrial process applications.  
 🌱 Constantly learning and building projects that connect **hardware with intelligence**.
 
