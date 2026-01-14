@@ -7,7 +7,7 @@
 
 <h3 align="center">🎓 Electronics & Communication Engineer | ⚙️ Control • Automation • IoT Enthusiast</h3>
 
----
+
 
 ### 🌟 About Me
 🥩 Carnivore at heart.
@@ -22,14 +22,8 @@
 
 💻 Believe in writing **efficient, elegant, and impactful code**.
 
----
-### 🎨 Hobbies
-![Binge-watcher](https://img.shields.io/badge/Binge--watcher-1E90FF?style=for-the-badge&logo=netflix&logoColor=white)
-![Beat Explorer](https://img.shields.io/badge/Beat%20Explorer-FF69B4?style=for-the-badge&logo=spotify&logoColor=white)
-![Gaming](https://img.shields.io/badge/Gaming-8A2BE2?style=for-the-badge&logo=discord&logoColor=white)
-![Squad Adventures](https://img.shields.io/badge/Squad%20Adventures-1E90FF?style=for-the-badge&logo=people&logoColor=white)
 
----
+
 
 ### 🧰 Tech Toolbox
 
@@ -44,7 +38,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Porteus](https://img.shields.io/badge/Porteus-1E90FF?style=for-the-badge&logo=linux&logoColor=white)
 
-----
+
 
 #### ⚙️ Domain Knowledge & Tools
 ![Digital Electronics](https://img.shields.io/badge/Digital%20Electronics-4B0082?style=for-the-badge&logo=circuitverse&logoColor=white)
@@ -59,23 +53,30 @@
 ![Field Instruments](https://img.shields.io/badge/Field%20Instruments-5F9EA0?style=for-the-badge&logo=measure&logoColor=white)
 ![Transducers & Sensors](https://img.shields.io/badge/Transducers%20%26%20Sensors-2E8B57?style=for-the-badge&logo=symfony&logoColor=white)
 
-----
+
 
 #### 🤖 Machine Learning & AI
 ![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=ai&logoColor=white)
 ![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-FF6F00?style=for-the-badge)
 ![GBR](https://img.shields.io/badge/Gradient%20Boosting-4285F4?style=for-the-badge)
+![Heuristic NLP](https://img.shields.io/badge/Heuristic%20Context%20Recognition%20(NLP)-4B0082?style=for-the-badge&logo=semanticweb&logoColor=white)
+![Risk Stratification](https://img.shields.io/badge/Weighted%20Risk%20Stratification-8B0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Predictive Deterrence](https://img.shields.io/badge/Predictive%20Deterrence%20Simulation-2F4F4F?style=for-the-badge&logo=apachespark&logoColor=white)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI%20(XAI)-006400?style=for-the-badge&logo=openaigym&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-228B22?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter%20GUI-1E90FF?style=for-the-badge&logo=python&logoColor=white)
 
-----
+
 
 #### ⚙️ Electronics & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-2C2C2C?style=for-the-badge&logo=espressif&logoColor=red)
 ![IoT](https://img.shields.io/badge/Internet%20of%20Things-00BFFF?style=for-the-badge)
 ![Sensors](https://img.shields.io/badge/Sensors%20%26%20Instrumentation-555555?style=for-the-badge)
+![Process Sensors](https://img.shields.io/badge/Process%20Control%20Sensors-8B0000?style=for-the-badge&logo=rockwellautomation&logoColor=white)
 ![Raspberry Pi IoT](https://img.shields.io/badge/Raspberry%20Pi-IoT-BC1142?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-----
+
 
 ### 🌱 Soft Skills
 ![Verbal Communication](https://img.shields.io/badge/Verbal%20Communication-FF69B4?style=for-the-badge&logo=communication&logoColor=white)
@@ -84,22 +85,8 @@
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge&logo=idea&logoColor=black)
 ![Adaptability](https://img.shields.io/badge/Adaptability-FF8C00?style=for-the-badge&logo=flex&logoColor=white)
 
----
 
-### ⚡ Focus Areas
-- Industrial Automation & Process Control  
-- Smart IoT-based Systems  
-- Control Engineering & Instrumentation  
-- Embedded Hardware & Microcontrollers  
-- Machine Learning Models for Real-world Systems  
 
----
-
-### 📈 Current Work
-🔧 Working on **AI-assisted control systems** for industrial process applications.  
-🌱 Constantly learning and building projects that connect **hardware with intelligence**.
-
----
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -112,16 +99,7 @@
 
 </p>
 
----
 
-### 🖋️ Quote that Inspires Me
-> *“The best way to predict the future is to create it.”* — Peter Drucker  
-
----
-
-<p align="center">💫 *Building intelligent systems that connect the digital and physical worlds.* 💫</p>
-
----
 
 <table>
   <tr>
